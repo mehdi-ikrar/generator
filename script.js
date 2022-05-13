@@ -56,7 +56,6 @@ form.style.display = 'none'
 
 
 
-let image = document.getElementById('image');
 let body = document.getElementById('body')
 
 console.log();
