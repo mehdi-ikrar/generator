@@ -1,0 +1,45 @@
+#citationBlock{
+    text-align: center;
+    border: 1px solid black;
+    background: white;
+    border-radius: 25px;
+    max-width: 500px;
+    min-width: 500px;
+    height: 160px;
+    display: block;
+    position: absolute;
+    top: 250px;
+    left: 560px;
+}
+#btn{
+    padding-left: 5px;
+    padding-right: 5px;
+    display: block;
+    position: absolute;
+    top: 430px;
+    left: 865px;
+}
+#submitButton{
+    padding-left: 5px;
+    padding-right: 5px;
+    display: block;
+    position: absolute;
+    top: 430px;
+    left: 765px;
+}
+#btnValider{
+    padding-left: 5px;
+    padding-right: 5px;
+    display: block;
+    position: absolute;
+    top: 380px;
+    left: 820px;
+}
+body{
+
+}
+img{
+    display: none;
+}
+
+   
